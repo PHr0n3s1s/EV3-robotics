@@ -12,11 +12,11 @@ capable of navigating a preset arena as depicted below, locate and go grab an it
 
 The robot utilizes 3 sensors in total:
 
-1. **Ultrasonic** -> Measures the distance between arena objects; knowing when to stop.
+1. **Ultrasonic** &rarr; Measures the distance between arena objects; knowing when to stop.
 
-2. **Color** -> For following the arena's line.
+2. **Color** &rarr; For following the arena's line.
 
-3. **Gyro** -> For making precise degree turns.
+3. **Gyro** &rarr; For making precise degree turns.
 
 The program combines the use of all those sensors to solve more complex problems such as detecting where the item is located in the arena.
 
