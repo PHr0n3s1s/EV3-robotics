@@ -23,7 +23,7 @@ The program combines the use of all those sensors to solve more complex problems
 
 ## Movement
 
-[Tracks](https://www.lego.com/cdn/product-assets/product.bi.additional.extra.pdf/31313_X_TRACK3R.pdf "build instructions") have been used for the robot's movement cause of their ability to make precise turns, as well as making the robot more stable; preventing it from getting off track caused by arena bumps.
+[Tracks](https://www.lego.com/cdn/product-assets/product.bi.additional.extra.pdf/31313_X_TRACK3R.pdf "build instructions") have been used for the robot's movement cause of their ability to make precise turns as well as making the robot more stable; preventing it from getting off track caused by arena bumps.
 
 ![robot tracks picture](./MD_Assets/robot_tracks.jpg "robot tracks")
 
