@@ -4,7 +4,7 @@
  *
  * Title: Robotics EV3 Microcontroller RobotC challenge code
  * Date: 2024-4-2
- * License: GPL3
+ * License: MIT
 */
 
 #pragma config(Sensor, S1, color, sensorEV3_Color)
